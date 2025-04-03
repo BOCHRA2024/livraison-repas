@@ -4,7 +4,7 @@
 ## Description
 
 Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (AGL), vise à modéliser une application à l'aide de diagrammes UML. Il permet d’identifier les cas d'utilisation clés et de documenter l'architecture du système.  
-##Objectifs de projets
+## Objectifs de projets
 Définir et documenter les cas d'utilisation essentiels.
 Concevoir des diagrammes UML pour illustrer le fonctionnement de l'application.
 Gérer le projet via Git et GitHub.
@@ -12,6 +12,7 @@ Gérer le projet via Git et GitHub.
 ## Cas d'utilisation prioritaires
 
 ### Cas d'utilisation 1 : Se connecter Client
+
 
 - Acteurs : client,système
 - Description : Ce cas d'utilisation permet à un client de se connecter à son compte en utilisant son email et son mot de passe. Le système valide les informations fournies et autorise l'accès si elles sont correctes.
