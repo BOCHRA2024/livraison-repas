@@ -1,6 +1,5 @@
 # livraison-repas
 
-<<<<<<< HEAD
 ## Description
 
 Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (AGL), vise à modéliser une application à l'aide de diagrammes UML. Il permet d’identifier les cas d'utilisation clés et de documenter l'architecture du système.  
