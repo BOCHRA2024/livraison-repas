@@ -61,5 +61,5 @@ Gérer le projet via Git et GitHub.
 
 ## Diagramme de cas d'utilisation:
 [![Diagramme de Cas d'Utilisation]("Diagrammes/Diagramme_de_cas_d'utilisation.png")]
-[![Diagramme de Cas d'Utilisation (PNG)]("C:\Git\AGL\livraison-repas\livraison-repas\Diagrammes\Diagramme de cas d'utilisation.png")]
+[![Diagramme de Cas d'Utilisation (PNG)]("Diagrammes/Diagramme_de_cas_d'utilisation.svg")]
 >>>>>>> f4af3eecfd44ddae2367b8b0244b6bc448346f50
