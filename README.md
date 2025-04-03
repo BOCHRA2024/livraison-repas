@@ -60,9 +60,9 @@ Gérer le projet via Git et GitHub.
 4. Paiement et confirmation. 
 
 ## Diagramme de cas d'utilisation:
-[![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase.svg)
-[![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase2.svg)
-[![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase.png)
-[![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase2.png)
+[![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase.svg)]
+[![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase2.svg)]
+[![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase.png)]
+[![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase2.png)]
 
 >>>>>>> f4af3eecfd44ddae2367b8b0244b6bc448346f50
