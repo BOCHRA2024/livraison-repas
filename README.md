@@ -5,9 +5,10 @@
 Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (AGL), vise à modéliser une application à l'aide de diagrammes UML. Il permet d’identifier les cas d'utilisation clés et de documenter l'architecture du système. 
 
 ## Objectifs de projets
-Définir et documenter les cas d'utilisation essentiels.
-Concevoir des diagrammes UML pour illustrer le fonctionnement de l'application.
-Gérer le projet via Git et GitHub.
+
+- Définir et documenter les cas d'utilisation essentiels.
+- Concevoir des diagrammes UML pour illustrer le fonctionnement de l'application.
+- Gérer le projet via Git et GitHub.
 
 ## Cas d'utilisation prioritaires
 
@@ -34,10 +35,12 @@ Gérer le projet via Git et GitHub.
 4. Paiement et confirmation.
 
 ## Diagramme de cas d'utilisation:
-[![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase.svg)]
-[![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase2.svg)]
-[![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase.png)]
-[![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase2.png)]
+
+![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase.svg)
+![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase2.svg)
+![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase.png)
+![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase2.png)
+
 ## Tests de validation - Tables de décision
 
 ### Table de décision pour "Se connecter Client"
