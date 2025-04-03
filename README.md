@@ -60,8 +60,8 @@ Gérer le projet via Git et GitHub.
 4. Paiement et confirmation. 
 
 ## Diagramme de cas d'utilisation:
-[![Diagramme de Cas d'Utilisation]("C:\Git\AGL\livraison-repas\livraison-repas\Diagrammes\Diagramme_de_cas_d'utilisation.svg")]
-[![Diagramme de Cas d'Utilisation (PNG)]("C:\Git\AGL\livraison-repas\livraison-repas\Diagrammes\Diagramme_de_cas_d'utilisation.png")]
+[![Diagramme de Cas d'Utilisation]("C:\Git\AGL\livraison-repas\livraison-repas\Diagrammes\Diagramme_de_cas_dutilisation.svg")]
+[![Diagramme de Cas d'Utilisation (PNG)]("C:\Git\AGL\livraison-repas\livraison-repas\Diagrammes\Diagramme_de_cas_dutilisation.png")]
  
 
 >>>>>>> f4af3eecfd44ddae2367b8b0244b6bc448346f50
