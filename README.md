@@ -65,5 +65,42 @@ Gérer le projet via Git et GitHub.
 [![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase.png)]
 [![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase2.png)]
  
+## Tests de validation - Tables de décision
+
+### Table de décision pour "Se connecter Client"
+
+#### Précondition
+
+| Condition                               | T   | T   | T   | T   |
+| --------------------------------------- | --- | --- | --- | --- |
+| Email valide (respecte le format email) | F   | T   | T   | T   |
+| Mot de passe non null et non vide       | F   | F   | T   | T   |
+| Compte existant avec cet email          | F   | F   | F   | T   |
+
+#### Postcondition
+
+| Condition                            | T   | T   | T   | T   |
+| ------------------------------------ | --- | --- | --- | --- |
+| Connexion réussie                    | F   | F   | F   | T   |
+| Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
+
+---
+
+### Table de décision pour "Passer commande"
+
+#### Précondition
+
+| Condition                  | T   | T   | T   | T   |
+| -------------------------- | --- | --- | --- | --- |
+| Client connecté            | F   | T   | T   | T   |
+| Plats ajoutés au panier    | F   | F   | T   | T   |
+| Stock des plats disponible | F   | F   | F   | T   |
+
+#### Postcondition
+
+| Condition                            | T   | T   | T   | T   |
+| ------------------------------------ | --- | --- | --- | --- |
+| Commande validée                     | F   | F   | F   | T   |
+| Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
 
 >>>>>>> f4af3eecfd44ddae2367b8b0244b6bc448346f50
