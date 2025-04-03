@@ -102,5 +102,3 @@ Gérer le projet via Git et GitHub.
 | ------------------------------------ | --- | --- | --- | --- |
 | Commande validée                     | F   | F   | F   | T   |
 | Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
-
->>>>>>> f4af3eecfd44ddae2367b8b0244b6bc448346f50
