@@ -1,4 +1,5 @@
 # Livraison repas
+<<<<<<< HEAD
 
 ## Description
 Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (AGL), vise à modéliser une application à l'aide de diagrammes UML. Il permet d’identifier les cas d'utilisation clés et de documenter l'architecture du système.                                                                                                                       
@@ -38,6 +39,11 @@ Gérer le projet via Git et GitHub.
 ## Tests de validation - Tables de décision
 
 =======
+=======
+
+## Description
+
+>>>>>>> b562ae25c20233ad8b9e9a1385aa2a1cb8c1d551
 Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (AGL), vise à modéliser une application à l'aide de diagrammes UML. Il permet d’identifier les cas d'utilisation clés et de documenter l'architecture du système. 
 
 ## Objectifs de projets
@@ -68,6 +74,7 @@ Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (A
 1. Le client consulte le menu.
 2. Le client ajoute les plats souhaités au panier.
 3. Le client valide la commande en vérifiant les articles dans son panier.
+<<<<<<< HEAD
 <<<<<<< HEAD
 4. # Paiement et confirmation.
 
@@ -116,6 +123,12 @@ Gérer le projet via Git et GitHub.
 
 ## Diagramme de cas d'utilisation:
 
+=======
+4. Paiement et confirmation.
+
+## Diagramme de cas d'utilisation:
+
+>>>>>>> b562ae25c20233ad8b9e9a1385aa2a1cb8c1d551
 ![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase.svg)
 ![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase2.svg)
 ![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase.png)
@@ -123,7 +136,10 @@ Gérer le projet via Git et GitHub.
 
 ## Tests de validation - Tables de décision
 
+<<<<<<< HEAD
 >>>>>>> 515a1bbf735900c5fa3ca77768f03d711a16db18
+=======
+>>>>>>> b562ae25c20233ad8b9e9a1385aa2a1cb8c1d551
 ### Table de décision pour "Se connecter Client"
 
 #### Précondition
@@ -158,6 +174,7 @@ Gérer le projet via Git et GitHub.
 | Condition                            | T   | T   | T   | T   |
 | ------------------------------------ | --- | --- | --- | --- |
 | Commande validée                     | F   | F   | F   | T   |
+<<<<<<< HEAD
 <<<<<<< HEAD
 | Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
 =======
@@ -207,3 +224,7 @@ Gérer le projet via Git et GitHub.
 >>>>>>> 515a1bbf735900c5fa3ca77768f03d711a16db18
 >>>>>>> 02fde91c845b1b82d7cdd8dda4c0fba7ba321919
 >>>>>>> 54a0023c320f78f3df4fe2cb4a560c10d6030044
+=======
+| Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
+
+>>>>>>> b562ae25c20233ad8b9e9a1385aa2a1cb8c1d551
