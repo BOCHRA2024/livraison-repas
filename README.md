@@ -85,7 +85,7 @@ Gérer le projet via Git et GitHub.
 
 ### Diagramme de classe :
 
-![Diagramme de classe (svg)](Diagrammes/Diagdeclasse.svg)
+![Diagramme de classe (svg)](Diagrammes/diagdeclasse.svg)
 ![Diagramme de classe (PNG)](Diagrammes/Diagdeclasse.png)
 
 ### Les diagrammes de séquences :
