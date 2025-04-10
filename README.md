@@ -76,8 +76,8 @@ Gérer le projet via Git et GitHub.
 
 | Classe	                          | Attributs
 --------------------------------------------------------------------------------------------------------------------
-| Client	                          | nom, prenom, email, numero, motDePasse, adresse
-| Livreur	                          | code, prenom, nom, email, adresse
+| Client	                            | nom, prenom, email, numero, motDePasse, adresse
+| Livreur	                            | code, prenom, nom, email, adresse
 | Administrateur                      | email, motDePasse
 | GestionClient	                      | contient une liste de Client (clients)
 | GestionLivreur                      | contient une liste de Livreur (existingDeliverers)
