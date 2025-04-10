@@ -75,7 +75,7 @@ Gérer le projet via Git et GitHub.
 ### Liste des classes métier
 
 | Classe	                            | Attributs
-----------------------------------------------------------------------------------------------------------------------
+|-------------------------------------|---------------------------------------------------------------------------------
 | Client	                      | nom, prenom, email, numero, motDePasse, adresse
 | Livreur	                      | code, prenom, nom, email, adresse
 | Administrateur                      | email, motDePasse
