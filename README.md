@@ -1,4 +1,4 @@
-# Livraison repas
+# livraison-repas
 
 ## Description
 Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (AGL), vise à modéliser une application à l'aide de diagrammes UML. Il permet d’identifier les cas d'utilisation clés et de documenter l'architecture du système.                                                                                                                       
@@ -6,7 +6,7 @@ Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (A
 ## Objectifs de projets
 Définir et documenter les cas d'utilisation essentiels.
 Concevoir des diagrammes UML pour illustrer le fonctionnement de l'application.
-Gérer le projet via Git et GitHub.
+Gérer le projet via Git et GitHub.
 
 ## Cas d'utilisation prioritaires
 ### Cas d'utilisation 1 : Se connecter Client
@@ -29,13 +29,13 @@ Gérer le projet via Git et GitHub.
 
 ## Diagramme de cas d'utilisation:
 
->>>>>>> b562ae25c20233ad8b9e9a1385aa2a1cb8c1d551
 ![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase.svg)
 ![Diagramme de Cas d'Utilisation (svg)](Diagrammes/usecase2.svg)
 ![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase.png)
 ![Diagramme de Cas d'Utilisation (PNG)](Diagrammes/usecase2.png)
 
 ## Tests de validation - Tables de décision
+
 ### Table de décision pour "Se connecter Client"
 
 #### Précondition
@@ -70,9 +70,6 @@ Gérer le projet via Git et GitHub.
 | Condition                            | T   | T   | T   | T   |
 | ------------------------------------ | --- | --- | --- | --- |
 | Commande validée                     | F   | F   | F   | T   |
-
-| Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
-=======
 | Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
 
 ### Liste des classes métier
@@ -105,10 +102,6 @@ Gérer le projet via Git et GitHub.
 ![Diagramme de classe (svg)](Diagrammes/Connexion_livreur.svg)
 ![Diagramme de classe (PNG)](Diagrammes/Connexion_livreur.png)
 
-##Postuler comme livreur
+## Postuler comme livreur
 ![Diagramme de classe (svg)](Diagrammes/Postuler_comme_livreur.svg)
 ![Diagramme de classe (PNG)](Diagrammes/Postuler_comme_livreur.png)
-=======
-![Diagramme de classe (PNG)](Diagrammes/Postuler_comme_livreur.png)
-
-| Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
