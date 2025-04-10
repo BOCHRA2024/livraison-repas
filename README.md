@@ -110,7 +110,10 @@ Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (A
 | Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
 =======
 | Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
+<<<<<<< HEAD
 
+=======
+>>>>>>> 02fde91c845b1b82d7cdd8dda4c0fba7ba321919
 ### Liste des classes métier
 
 | Classe	                          | Attributs
@@ -143,4 +146,11 @@ Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (A
 
 ## Postuler comme livreur
 ![Diagramme de classe (svg)](Diagrammes/Postuler_comme_livreur.svg)
+<<<<<<< HEAD
 ![Diagramme de classe (PNG)](Diagrammes/Postuler_comme_livreur.png)
+=======
+![Diagramme de classe (PNG)](Diagrammes/Postuler_comme_livreur.png)
+
+
+>>>>>>> 515a1bbf735900c5fa3ca77768f03d711a16db18
+>>>>>>> 02fde91c845b1b82d7cdd8dda4c0fba7ba321919
