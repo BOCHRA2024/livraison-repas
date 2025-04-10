@@ -110,5 +110,39 @@ Ce projet, réalisé dans le cadre du cours d'Architecture et Génie Logiciel (A
 | Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
 =======
 | Nombre de tests dans le jeu de tests | 1   | 2   | 3   | 4   |
+### Liste des classes métier
+
+| Classe	                          | Attributs
+--------------------------------------------------------------------------------------------------------------------
+| Client	                          | nom, prenom, email, numero, motDePasse, adresse
+| Livreur	                          | code, prenom, nom, email, adresse
+| Administrateur                      | email, motDePasse
+| GestionClient	                      | contient une liste de Client (clients)
+| GestionLivreur                      | contient une liste de Livreur (existingDeliverers)
+| GestionAdministrateur	              | gère la connexion à travers un Map<String, String[]> pour l’authentification
+
+### Diagramme de classe :
+
+![Diagramme de classe (svg)](Diagrammes/Diagdeclasse.svg)
+![Diagramme de classe (PNG)](Diagrammes/Diagdeclasse.png)
+
+### Les diagrammes de séquences :
+
+## Connexion administrateur
+![Diagramme de classe (svg)](Diagrammes/Connexion_administrateur.svg)
+![Diagramme de classe (PNG)](Diagrammes/Connexion_administrateur.png)
+
+## Ajouter un client
+![Diagramme de classe (svg)](Diagrammes/Ajouter_un_client.svg)
+![Diagramme de classe (PNG)](Diagrammes/Ajouter_un_client.png)
+
+## Connexion livreur
+![Diagramme de classe (svg)](Diagrammes/Connexion_livreur.svg)
+![Diagramme de classe (PNG)](Diagrammes/Connexion_livreur.png)
+
+## Postuler comme livreur
+![Diagramme de classe (svg)](Diagrammes/Postuler_comme_livreur.svg)
+![Diagramme de classe (PNG)](Diagrammes/Postuler_comme_livreur.png)
+
 
 >>>>>>> 515a1bbf735900c5fa3ca77768f03d711a16db18
